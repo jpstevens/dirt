@@ -1,6 +1,6 @@
 {
   "name": "dirt",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Directory traversal made easy",
   "main": "lib/dirt.js",
   "scripts": {
