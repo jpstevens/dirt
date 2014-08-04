@@ -31,7 +31,7 @@ When editing the file:
 We can add a ```dirt.require``` method to our file to require files higher up in the directory tree:
 
 ```javascript
-var example = dirt.require.up(4, 'server/controllers/example.js'));
+var example = dirt.require(4, 'server/controllers/example.js'));
 ```
 
 The about command will require the path:
