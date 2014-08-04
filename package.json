@@ -4,7 +4,8 @@
   "description": "Directory traversal made easy",
   "main": "lib/dirt.js",
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "prepublish": "grunt"
   },
   "repository": {
     "type": "git",
