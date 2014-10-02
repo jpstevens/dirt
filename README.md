@@ -1,6 +1,6 @@
 # dirt
 
-[![Build Status](https://travis-ci.org/jpstevens/dirt.svg?branch=master)](https://travis-ci.org/jpstevens/dirt)
+[![Build Status](https://travis-ci.org/jpstevens/dirt.svg?branch=master)](https://travis-ci.org/jpstevens/dirt) ![Downloads/month](http://img.shields.io/npm/dm/qreq.svg)
 
 When writing tests, or traversing nested projects, do you ever have require chains like this?
 
